@@ -6,12 +6,17 @@ The goal of this guide is to summarize different ways to customize create-react-
 
 ## I want use create-react-app but...
 
-### ... use TypeScript instead of JavaScript
-1. `create-react-app my-app --scripts-version=react-scripts-ts`
+### Use TypeScript instead of JavaScript
+- `$ create-react-app my-app --scripts-version=react-scripts-ts`
+- Or add the package and update npm scripts
 
-### ... use Mobx instead of `setState`
+### Use Sass instead of CSS
+1. Add and configure `node-sass-chokidar`, reference: [official docs](https://github.com/facebook/create-react-app/blob/master/packages/react-scripts/template/README.md#adding-a-css-preprocessor-sass-less-etc)
+2. Update npm scripts
+
+### Use Mobx instead of `setState`
 - [todo]
 
-### ... use Ava instead of Jest
+### Use Ava instead of Jest
 - [todo]
 
