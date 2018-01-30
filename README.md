@@ -7,7 +7,7 @@ The goal of this guide is to summarize different ways to customize create-react-
 ## I want use create-react-app but...
 
 ### ... use TypeScript instead of JavaScript
-- [todo]
+1. `create-react-app my-app --scripts-version=react-scripts-ts`
 
 ### ... use Mobx instead of `setState`
 - [todo]
