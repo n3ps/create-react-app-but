@@ -16,7 +16,7 @@ The goal of this guide is to summarize different ways to customize create-react-
 
 ### Use Mobx instead of `setState`
 - option 1: Without decorators - just add and use the `mobx` package
-- option 2: Using @decorators - use `react-app-wired`
+- option 2: Using @decorators - use `react-app-rewired`
 
 ### Use Ava instead of Jest
 - [todo]
